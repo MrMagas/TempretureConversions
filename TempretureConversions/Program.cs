@@ -33,10 +33,6 @@ namespace TempretureConversions
                 case "B":
                     tempreture = (tempreture - 32) / 1.8;
                     break;
-                case "C":
-                    tempreture = (tempreture - 32) / 1.8;
-                    break;
-
             }
 
 
